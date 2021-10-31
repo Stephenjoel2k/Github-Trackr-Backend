@@ -1,5 +1,7 @@
 # Github-Leaderboard
 
+https://githubtrackr.herokuapp.com/
+
 1. Add a list of orgs/repositories to your watch list. (We push this to database)
 2. Cron task watches these repositories for new events and updates the github stats on these repositories.
 3. Add a button next to user repos/orgs and add a watch button.
